@@ -7,4 +7,4 @@ The training is outlined below:
   - The population is then culled and repopulated back to 100 by... reusing the top 5 elites, cloning 5 of the fittest elite, generating 80 from the mating pool (through a roulette style - higher fitness = higher chance to be a parent) and lastly having 10 completely random offspring.
   - The cycle continues until we feel like there has been enough training or fitness has stalled for too long.
   
-To be continued...
+Download link to the finished (can still be improved) AI: https://drive.google.com/open?id=1klDF5lTysELwB9Oeya7r48dj8DjWSIOy
