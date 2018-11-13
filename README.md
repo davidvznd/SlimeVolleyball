@@ -1,13 +1,16 @@
 # The Complete Slime Volleyball AI
 Download link to AI: https://drive.google.com/open?id=1klDF5lTysELwB9Oeya7r48dj8DjWSIOy
 
-//If wanting to see how the training code works, press 'D' to show the training being rendered.
+The current files showcases a genetic algorithm in action, with the simulation showcasing 100 AI playing against each other and gettng better through generations. 
+
+If wanting to see visually how it works, press 'D' to toggle showing the training being rendered. 
+NOTE that visuals slow down the logic and means it'll take longer to simulate the generations.
 
 # The Neural Network
 Soon...
 
 # Machine Learning - The Genetic Algorithm
-All the display code can be enabled using the 'D' key, but prepare for the 50 1v1's that appear.
+I will try to explain the overall structure of the training, and how new generations and their population is generated.
 The training is outlined below:
   - 100 in a population split into pairs 
   - 'n' number of rounds are played
